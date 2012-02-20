@@ -14,7 +14,6 @@ Requires:         R-reshape
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-RGtk2 R-utils R-methods 
 BuildRequires:    R-reshape 
-BuildRequires:    ggobi
 BuildRequires:    ggobi-devel
 BuildRequires:    octave-devel
 Patch0:           rggobi_2.1.17-format.patch
