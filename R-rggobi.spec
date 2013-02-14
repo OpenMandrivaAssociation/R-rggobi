@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.1.17
+Version:          2.1.19
 Release:          1
 Summary:          Interface between R and GGobi
 Group:            Sciences/Mathematics
 License:          BSD
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/rggobi_2.1.19.tar.gz
 Requires:         R-RGtk2 R-utils R-methods R-reshape
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-RGtk2 R-utils R-methods R-reshape
