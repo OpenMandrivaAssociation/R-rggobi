@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.1.19
-Release:          1
+Release:          2
 Summary:          Interface between R and GGobi
 Group:            Sciences/Mathematics
 License:          BSD
